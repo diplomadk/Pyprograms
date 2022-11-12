@@ -1,0 +1,13 @@
+#checking the different types of characters present in the string ?
+print('Sun786'.isalnum())
+print('east786'.isalpha())
+print('west'.isalpha())
+print('bengal'.isdigit())
+print('786786'.isdigit())
+print('abc'.islower())
+print('Abc'.islower())
+print('abc123'.islower())
+print('ABC'.isupper())
+print('Learning python is Easy'.istitle())
+print('Learning Python Is Easy'.istitle())
+print(' '.isspace())
